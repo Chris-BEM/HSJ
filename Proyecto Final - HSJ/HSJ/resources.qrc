@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>qss/MaterialDark.qss</file>
+        <file>qss/Aqua.qss</file>
+        <file>qss/ManjaroMix.qss</file>
+        <file>qss/Combinear.qss</file>
+        <file>qss/Obit.qss</file>
+        <file>qss/SyNet.qss</file>
+        <file>qss/ConsoleStyle.qss</file>
+        <file>qss/ExcelOffice.qss</file>
+        <file>qss/MacOS.qss</file>
+        <file>qss/Ubuntu.qss</file>
+        <file>qss/Clientor.qss</file>
+        <file>qss/Diffnes.qss</file>
+        <file>qss/Fibers.qss</file>
+        <file>qss/Diffnes2.qss</file>
+        <file>qss/DiffnesAlt.qss</file>
+        <file>qss/ExcelOffice2.qss</file>
+        <file>qss/ExcelOfficeAlt.qss</file>
+        <file>qss/logo-hsj.png</file>
+    </qresource>
+</RCC>
